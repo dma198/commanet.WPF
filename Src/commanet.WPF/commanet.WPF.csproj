@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <RootNamespace>commanet.WPF</RootNamespace>
+    <AssemblyName>commanet.WPF</AssemblyName>
+    <Description>WPF improvements</Description>
+    <Product>commanet.WPF</Product>
+    <Version>1.0.0.0</Version>
+    <Authors>Dmitry Molodtsov</Authors>
+    <Nullable>enable</Nullable>    
+  </PropertyGroup>
+
+</Project>

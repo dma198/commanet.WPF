@@ -1,0 +1,17 @@
+*.user         
+*.cache
+*.xap
+*.ldb
+*/_ReSharper.*   
+*.user
+**/bin/*
+**/obj/*
+**/obj/*
+/*.suo
+.vs/*
+*.log
+*.userprefs
+.vscode
+**/Release/*
+**/Debug/*
+*PublishProfiles*
